@@ -1,0 +1,5 @@
+An array is a collection of elements stored in contigous memory location
+
+All elements of array are of same data type (int,float,etc)
+
+Array allow for eficient access and manipulation of data
