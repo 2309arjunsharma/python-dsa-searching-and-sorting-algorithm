@@ -10,4 +10,3 @@ def bubble_sort(lst):
 sorted_list=[64,34,25,12,22,11]
 result=bubble_sort(sorted_list)
 print(result)
-unsorted_list=[12,24,11,34,90,22]
